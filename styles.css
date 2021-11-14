@@ -86,7 +86,7 @@ section{
 }
 
 .header .logo img  {
-  height: 15rem;
+  height: 10rem;
 }
 
 .header .navbar a {
@@ -291,6 +291,7 @@ transform: scaleY(1);
   border-radius:15px;
   background-size: cover;
   background-position:center;
+  margin-top:20px;
 }
 
 .home .content {
@@ -311,6 +312,7 @@ transform: scaleY(1);
   color:#eee;
   background-color:#666;
   border-radius:5px;
+  padding-left:10px;
 }
 
 .about .row {
